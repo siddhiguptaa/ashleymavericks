@@ -23,7 +23,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
     <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/cat_dance.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://github.com/siddhiguptaa/ashleymavericks/blob/master/cat_kya_ho_rha_h.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
